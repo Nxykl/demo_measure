@@ -1,0 +1,10 @@
+﻿Measure ,data_element,,Sub_Measure_DESC,Stat_key_1,stat_value_1_txt,stat_key_2,stat_val_txt,stat_key_3,stat_value_3_txt
+ADD,measure-version-id,,Measures,,,,,,
+ADD,measurementYear,,Metadata,,,,,,
+ADD,benefit,,metadata,,,,,,
+ADD,EligiblePopulation,,AvoidanceAntibioticTreatment,Age,65+,,,,
+ADD,NumeratorByAdmin,,AvoidanceAntibioticTreatment,Age,65+,,,,
+ADD,EligiblePopulation,,AvoidanceAntibioticTreatment,Age,3m-17,,,,
+ADD,NumeratorByAdmin,,AvoidanceAntibioticTreatment,Age,3m-17,,,,
+ADD,EligiblePopulation,,AvoidanceAntibioticTreatment,Age,18-64,,,,
+ADD,NumeratorByAdmin,,AvoidanceAntibioticTreatment,Age,18-64,,,,
