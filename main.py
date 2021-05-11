@@ -6,7 +6,7 @@ from json2xml.utils import readfromurl, readfromstring, readfromjson
 
 df = pd.read_csv("measure_data.csv")
 
-
+# retrieve particular column based on condition
 mask = df[df["Stat_key_1"].notnull()]
 print(mask)
 
